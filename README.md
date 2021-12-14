@@ -3,6 +3,9 @@
 A friend of mine wanted to use natural language processing (NLP) to analyse
 the tweets by French presidential candidate Eric Zemmour. This is how we went about it.
 
+All tools mentioned in this tutorial are free (Google Sheets, Twitter API),
+open source (Facepager, DB Browser for SQLite), or freemium (IBM Watson).
+
 ## Collecting the Tweets
 
 We used [Facepager](https://github.com/strohne/Facepager) to collect the tweets.
