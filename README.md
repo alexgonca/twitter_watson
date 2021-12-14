@@ -1,6 +1,6 @@
-# How to use IBM Watson to analyse Twitter data
+# How to use IBM Watson to analyze Twitter data
 
-A friend of mine wanted to use natural language processing (NLP) to analyse
+A friend of mine wanted to use natural language processing (NLP) to analyze
 the tweets by French presidential candidate Eric Zemmour. This is how we went about it.
 
 All tools mentioned in this tutorial are free (Google Sheets, Twitter API),
@@ -12,7 +12,7 @@ We used [Facepager](https://github.com/strohne/Facepager) to collect the tweets.
 This tool comes with a number of useful [presets](https://github.com/strohne/Facepager/wiki/Presets).
 We took advantage of a preset titled `Twitter >> Get tweets of user` and tweaked the parameters accordingly.
 
-## Analysing the Data with IBM Watson
+## Analyzing the Data with IBM Watson
 
 We also used Facepager to submit the tweets to IBM Watson's [Natural Language Understanding](https://www.ibm.com/cloud/watson-natural-language-understanding),
 a reputable NLP cloud solution, and retrieve the responses.
